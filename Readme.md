@@ -111,7 +111,7 @@ In both cases, the curvature field may guide the algorithm in a way which preser
 
 This project resulted from my Bachelor's Thesis *Multi-Scale Curvature Field of Triangle Meshes* which I handed in and defended in January 2016 at TU Darmstadt.
 
-TODO: add a link to the thesis/paper
+A paper submission to Vision, Modeling, and Visualization (2016) was created around July 2016, but ultimately rejected (mainly because of incomplete evaluation of your method). The paper can still be found <a href="https://arxiv.org/pdf/1610.07368v2.pdf" target="_blank">here</a>.
 
 ## License
 
